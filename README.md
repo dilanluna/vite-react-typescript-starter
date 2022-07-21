@@ -6,6 +6,7 @@
 
 - [Vite](https://vitejs.dev) + [React](https://reactjs.org) + [Typescript](https://www.typescriptlang.org)
 - Automaticaly format code on commit powered by [prettier](https://prettier.io), [husky](https://typicode.github.io/husky) and [lint-staged](https://github.com/okonet/lint-staged)
+- Preconfigured test environment with [vitest](https://vitest.dev) and [testing library](https://testing-library.com)
 
 ## Getting Started
 
@@ -33,4 +34,10 @@ Or preview your production build.
 
 ```bash
 $ npm run preview
+```
+
+Run tests.
+
+```bash
+$ npm run test
 ```
