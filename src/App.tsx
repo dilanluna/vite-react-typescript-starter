@@ -10,7 +10,8 @@ function App() {
       <div>
         <a
           href="https://vitejs.dev"
-          target="_blank">
+          target="_blank"
+          rel="noreferrer">
           <img
             src="/vite.svg"
             className="logo"
@@ -19,7 +20,8 @@ function App() {
         </a>
         <a
           href="https://reactjs.org"
-          target="_blank">
+          target="_blank"
+          rel="noreferrer">
           <img
             src={reactLogo}
             className="logo react"
